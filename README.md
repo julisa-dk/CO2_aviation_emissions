@@ -22,12 +22,7 @@ https://www.eesi.org/papers/view/fact-sheet-the-growth-in-greenhouse-gas-emissio
 
 https://www.eurocontrol.int/our-data
 
-
 ### <br></br> Dataset "CO2 Emissions by State": 
 <div>
   https://ansperformance.eu/data/
 </div>
-
-### <br></br>:fire: My Stats :
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julisa-dk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
