@@ -1,5 +1,10 @@
 <div id="header" align="center">
+<<<<<<< Updated upstream
   <img src="airline1.jpeg" width="1100"/>
+=======
+  <img src="airline1.jpeg" width="100"/>
+  !(https://user-images.githubusercontent.com/36698832/191609738-8fecfcf3-5c14-47f5-95ca-9d2e68f9f172.png)
+>>>>>>> Stashed changes
 </div>
 
 <h1 align="center"> "Green aviation - CO2 Emissions" </h1>
@@ -23,6 +28,24 @@ https://www.eesi.org/papers/view/fact-sheet-the-growth-in-greenhouse-gas-emissio
 https://www.eurocontrol.int/our-data
 
 ### <br></br> Dataset "CO2 Emissions by State": 
+
+Data collection, monitoring, and development are key parts of our contribution to support aviation in its goal to reduce noise, CO2, and other emissions, as well as condensation trails.
 <div>
   https://ansperformance.eu/data/
 </div>
+
+### <br></br> Data Pipeline:
+
+The pipeline could be a stream or batch. In this project, I decided to use batch because I want to run the script periodically (quarterly). 
+Because this database is updated by the end of the first month of each quarter with new data from the previous quarter. 
+
+The dataset includes annual and monthly information on CO2 emissions related to commercial passenger, freight, and general aviation flights for 186 countries. These CO2 emissions are estimated based on a consistent methodology across countries.
+Flights are broken down into 3 categories: total flights, passenger flights, and freight flights. Please note that general aviation (non-freight flights with less than 19 passengers, e.g. agricultural planes and private jets) are included with passenger flights.
+
+The main source used for the estimation of these CO2 emissions is a database compiled by the International Civil Aviation Organisation (ICAO) with all commercial passenger and freight flights around the world. From 2019 onwards, the ICAO data source is Automatic Dependent Surveillance-Broadcast (ADS-B) system and for years prior to 2019, the estimates are based on a database of scheduled flight information. A complete description of the estimation methodology is provided in the OECD Working Paper CO2 Emissions from Air Transport - A Near-Real-Time Global Database for Policy Analysis.
+
+The ICAO database is coupled with the CO2 emission calculator provided by Eurocontrol. Given an aircraft type equipped with specific engines and a distance to travel, this tool can be used to calculate the quantity of fuel burnt and a quantity of CO2 emitted. Additional details are available in Eurocontrol (2016). 
+
+
+
+
