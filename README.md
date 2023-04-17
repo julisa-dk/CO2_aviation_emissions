@@ -1,8 +1,8 @@
 <div id="header" align="center">
-  <img src="airline1.jpeg" width="1000"/>
+  <img src="airline1.jpeg" width="1100"/>
 </div>
 
-<h3 align="center"> "Green aviation - CO2 Emissions" </h3>
+<h1 align="center"> "Green aviation - CO2 Emissions" </h1>
 
 ### Problem statement :
 
