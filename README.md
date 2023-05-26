@@ -41,6 +41,13 @@ The main source used for the estimation of these CO2 emissions is a database com
 
 The ICAO database is coupled with the CO2 emission calculator provided by Eurocontrol. Given an aircraft type equipped with specific engines and a distance to travel, this tool can be used to calculate the quantity of fuel burnt and a quantity of CO2 emitted. Additional details are available in Eurocontrol (2016). 
 
+### <br></br> QuickSight Dashboard:
+
+<div>
+  <img src="airline1.jpeg" width="1100"/>
+</div>
+
+
 
 
 
