@@ -44,7 +44,7 @@ The ICAO database is coupled with the CO2 emission calculator provided by Euroco
 ### <br></br> QuickSight Dashboard:
 
 <div>
-  <img src="airline1.jpeg" width="1100"/>
+  <img src="AWSDashboard.png" width="1100"/>
 </div>
 
 
