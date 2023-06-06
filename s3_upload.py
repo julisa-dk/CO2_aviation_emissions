@@ -6,10 +6,6 @@ import os
 import boto3
 from botocore.exceptions import NoCredentialsError
 
-#create auth
-#ACCESS_KEY = ['AKIAYWDMJRSZLU4PXCPG']
-#SECRET_KEY = ['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']
-
 
 os.system("wget https://www.eurocontrol.int/performance/data/download/xls/CO2_emissions_by_state.xlsx")
 
