@@ -2,7 +2,7 @@
   <img src="airline1.jpeg" width="1100"/>
 </div>
 
-<h1 align="center"> "Green aviation - CO2 Emissions" </h1>
+<h1 align="center"> "Green Aviation - CO2 Emissions (pipeline)" </h1>
 
 ### Problem statement :
 
@@ -47,6 +47,14 @@ The ICAO database is coupled with the CO2 emission calculator provided by Euroco
   <img src="ETLWorkflow.png" width="1100"/>
 </div>
 
+### <br></br> Technologies:
+
+Cloud: AWS
+Infrastructure as code (IaC): Terraform
+Workflow orchestration: Airflow
+Data Warehouse: Redshift
+Batch processing: Spark (still working on it)
+BI tool: Amazon QuickSight
 
 ### <br></br> Amazon QuickSight Dashboard:
 
