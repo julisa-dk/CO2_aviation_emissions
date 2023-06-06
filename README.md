@@ -50,10 +50,15 @@ The ICAO database is coupled with the CO2 emission calculator provided by Euroco
 ### <br></br> Technologies:
 
 Cloud: AWS
+<br></br>
 Infrastructure as code (IaC): Terraform
+<br></br>
 Workflow orchestration: Airflow
+<br></br>
 Data Warehouse: Redshift
+<br></br>
 Batch processing: Spark (still working on it)
+<br></br>
 BI tool: Amazon QuickSight
 
 ### <br></br> Amazon QuickSight Dashboard:
