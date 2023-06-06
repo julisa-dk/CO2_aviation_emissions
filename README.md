@@ -61,6 +61,9 @@ Batch processing: Spark (still working on it)
 <br></br>
 BI tool: Amazon QuickSight
 
+### <br></br> Airflow DAG:
+  <img src="airflow_screen_1.png" width="1100"/>
+
 ### <br></br> Amazon QuickSight Dashboard:
 
 <div>
